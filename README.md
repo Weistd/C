@@ -4,6 +4,8 @@
 
 
 <img src="https://github.com/Weistd/CS455FinalProject/blob/main/ICON.png" width="250" height="250" />
+
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/show.gif" width="300" height="550" />
 README file for CS455 Final Project COVID-19 TRACKER
 
 COVID-19 TRACKER is a android app which is designed to show the detialed information covid-19 cases over the Canada and the world. This app was implmented by using the android studio and can be downloaded by downloading entire project file and using andoird studio to install it in your android protable devices.
