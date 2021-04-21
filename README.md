@@ -51,6 +51,7 @@ here is the detailed step to use the andoird studio to install
 ## Usage
 
 This app is used for real-time tracking COVID-19 information over the Canada.
+
 <img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png" width="300" height="450" />
 
 ## API
