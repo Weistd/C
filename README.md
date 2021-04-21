@@ -67,6 +67,16 @@ Three Covid-19 data API I used in this APP as my data source
 
 Here is the list of features
 
+1.Every data in this app is real-time
+
+2.Every data in this app will automatic updated once the screen got refreshed
+
+3.need double click the back button to exit the application. designed to pervent the touch of the back button by accident
+
+4.not only showing the total of cases, active case, recovered cases, and the death cases, also show the the changes number of different data.
+
+5.
+
 
 ## Showcases
 
