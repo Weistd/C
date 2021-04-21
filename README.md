@@ -1,6 +1,6 @@
 # COVID-19 TRACKER README
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://https://github.com/Weistd/CS455FinalProject/edit/main/README.md)
 
 A standard style for README files
 
