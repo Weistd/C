@@ -56,6 +56,7 @@ This app is used for real-time tracking COVID-19 information over the Canada.
 
 ## DataSource
 Three Covid-19 data API I used in this APP as my data source
+If anyone want to use this data source, feel free to read the data source API below
 
 
 1.[API1](https://opencovid.ca/api/).
@@ -65,7 +66,7 @@ Three Covid-19 data API I used in this APP as my data source
 2. [API2](https://documenter.getpostman.com/view/11073859/Szt5fAr3?version=latest).
 -The second API I used to fetch the covid-19 overall cases summary
 
-3. [API3](https://opencovid.ca/api/).
+3. [API3](https://corona.lmao.ninja/).
 -The third one here I used to fetch the COVID-19 cases of the world
 
 ## Features
@@ -105,7 +106,8 @@ Here is the list of features
 <img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/ModelView.png" width="550" height="550" />
 
 ### Contributors
-Xiaowei Liang
+Xiaowei Liang 
+2021/04/21
 
 
 
