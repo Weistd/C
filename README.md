@@ -46,29 +46,27 @@ here is the detailed step to use the andoird studio to install
 
 ## Usage
 
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
-
-```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
-```
-
+This app is used for real-time tracking COVID-19 information over the Canada.
+![Usage](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png)
 
 ## API
+Three Covid-19 data API I used in this APP as my data source
 
-If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+1.[API1](https://opencovid.ca/api/).
+-The first one I used to get the detailed data of all province in canda
 
-To add in Markdown format, use this code:
 
-```
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-```
+2. [API2](https://documenter.getpostman.com/view/11073859/Szt5fAr3?version=latest).
+-The second API I used to fetch the covid-19 overall cases summary
+
+3. [API3](https://opencovid.ca/api/).
+-The third one here I used to fetch the COVID-19 cases of the world
 
 ## Features
 
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
+Here is the list of features
+
 
 ## Showcases
 
