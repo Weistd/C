@@ -2,8 +2,8 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/Weistd/CS455FinalProject/blob/main/README.md)
 
-![APP Icon](https://github.com/Weistd/CS455FinalProject/blob/main/ICON.png)
 
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ICON.png" width="250" height="250" />
 README file for CS455 Final Project COVID-19 TRACKER
 
 COVID-19 TRACKER is a android app which is designed to show the detialed information covid-19 cases over the Canada and the world. This app was implmented by using the android studio and can be downloaded by downloading entire project file and using andoird studio to install it in your android protable devices.
@@ -51,7 +51,7 @@ here is the detailed step to use the andoird studio to install
 ## Usage
 
 This app is used for real-time tracking COVID-19 information over the Canada.
-![Usage](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png)
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png" width="300" height="450" />
 
 ## API
 Three Covid-19 data API I used in this APP as my data source
