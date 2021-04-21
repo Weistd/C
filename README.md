@@ -29,7 +29,7 @@ COVID19 TRACKER is my solution for people who want have more convenient and time
 
 Covid19 Tracker is a APP everyone can downloaded in their phones and use it to check the detailed information about the covid-19 cases all over the canada and can also be used to check the total cases on the world.
 
-![Cover Page](https://github.com/Weistd/CS455FinalProject/blob/main/ICON.png)
+![Cover Page](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/flash_page.png)
 
 ## Install
 
