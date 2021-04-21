@@ -182,7 +182,7 @@ class StateWiseDataActivity : AppCompatActivity() {
         for(i in 0..dataType.size-1) {
             val url1 = "https://api.opencovid.ca/timeseries?stat=";
             val dataType = dataType[i];
-            val url2 = "&loc=prov&after="
+            val url2 = "&loc=prov&date="
             val url = url1 + dataType + url2 + currentDate;
             System.out.println(" url " + url)
 
