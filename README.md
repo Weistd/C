@@ -42,6 +42,7 @@ here is the detailed step to use the andoird studio to install
 ![Step2](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.png)
 3.plug your USB and select the right device and click the run button 
 ![Step3](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step3.jpg)
+**
 
 ## Usage
 
