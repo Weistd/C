@@ -95,7 +95,9 @@ Here is the list of features
 ## FixedBugList
 
 -In MainActivity, The fetch data in the not working  *fixed*
+
 -In MainActivity, wrong order to store the fetched data   *fixed*
+
 -In the StyateWiseDataActivity, the search editbox not working  *fixed*
 
 
@@ -104,10 +106,7 @@ Here is the list of features
 
 ### Contributors
 
-This project exists thanks to all the people who contribute. 
-<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
 
-## License
 
-[MIT](LICENSE) © Richard Littauer
+
