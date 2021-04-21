@@ -102,8 +102,8 @@ Here is the list of features
 
 
 ## WireFrame
-
-
+https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/ModelView.png
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/ModelView.png" width="550" height="550" />
 ### Contributors
 
 
