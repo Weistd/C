@@ -46,20 +46,15 @@ here is the detailed step to use the andoird studio to install
 
 ## Usage
 
-This app is used for tracking COVID-19 information over the Canada.
+This app is used for real-time tracking COVID-19 information over the Canada.
 ![Usage](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png)
 
 ## API
+Three Covid-19 date api I used in this APP as my data source
+1.[@API1](https://opencovid.ca/api/).
+2. [@API2](https://documenter.getpostman.com/view/11073859/Szt5fAr3?version=latest).
+3. [@API3](https://opencovid.ca/api/).
 
-If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
-To add in Markdown format, use this code:
-
-```
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-```
 
 ## Features
 
