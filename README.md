@@ -65,7 +65,8 @@ Three Covid-19 data API I used in this APP as my data source
 
 ## Features
 
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
+Here is the list of features
+
 
 ## Showcases
 
