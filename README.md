@@ -50,7 +50,7 @@ This app is used for real-time tracking COVID-19 information over the Canada.
 ![Usage](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png)
 
 ## API
-Three Covid-19 date api I used in this APP as my data source
+Three Covid-19 data API I used in this APP as my data source
 
 
 1.[API1](https://opencovid.ca/api/).
