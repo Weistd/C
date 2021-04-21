@@ -23,19 +23,17 @@ In this README file the usage and the implementation will be explained in detail
 - [License](#license)
 
 ## Background
-Covid-19 pandamic started 2020 and many peoples life got changed by this pandamic. Since the COVID-19 is still a big theater to our faily life, I decided to design and implement a APP that can do a real time track to the COVID-19 cases all over Canada. SO, that people who lives in Canada can get the information about COVID-19 in a more convenient and timely way.
+Covid-19 pandamic started on 2020 and many peoples life got changed by this pandamic. Since the COVID-19 is still a big threat to our daily life, I decided to design and implement a APP that can do a real time track to the COVID-19 cases all over Canada. SO, that people who lives in Canada can get the information about COVID-19 in a more convenient and timely way.
 
-Covid19 Tracker is a APP everyone can downloaded into their phones and use it to check the detailed information about the covid-19 cases all over the canada and can also be used to check the total cases on the world.
+COVID19 TRACKER is my solution for people who want have more convenient and timely access to the COVID19 information.
 
+Covid19 Tracker is a APP everyone can downloaded in their phones and use it to check the detailed information about the covid-19 cases all over the canada and can also be used to check the total cases on the world.
 
+![Cover Page](https://github.com/Weistd/CS455FinalProject/blob/main/ICON.png)
 
 ## Install
 
-This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
 
-```sh
-$ npm install --global standard-readme-spec
-```
 
 ## Usage
 
