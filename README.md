@@ -73,9 +73,9 @@ Here is the list of features
 
 3.need double click the back button to exit the application. designed to pervent the touch of the back button by accident
 
-4.not only showing the total of cases, active case, recovered cases, and the death cases, also show the the changes number of different data.
+4.not only showing the total of cases, active case, recovered cases, and the death cases, also show the change of number in different data.
 
-5.
+5.using by using pie chart to give a more direct view of the data
 
 
 ## Showcases
