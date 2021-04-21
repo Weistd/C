@@ -23,16 +23,25 @@ In this README file the usage and the implementation will be explained in detail
 - [License](#license)
 
 ## Background
-Covid-19 pandamic started on 2020 and many peoples life got changed by this pandamic. Since the COVID-19 is still a big threat to our daily life, I decided to design and implement a APP that can do a real time track to the COVID-19 cases all over Canada. SO, that people who lives in Canada can get the information about COVID-19 in a more convenient and timely way.
+The covid-19 pandemic started in 2020 and many people's life got changed by this pandemic. Since the COVID-19 is still a big threat to our daily life, I decided to design and implement an APP that can do a real-time track of the COVID-19 cases all over Canada. SO, that people who live in Canada can get the information about COVID-19 in a more convenient and timely way.
 
-COVID19 TRACKER is my solution for people who want have more convenient and timely access to the COVID19 information.
+COVID19 TRACKER is my solution for people who want to have more convenient and timely access to the COVID19 information.
 
-Covid19 Tracker is a APP everyone can downloaded in their phones and use it to check the detailed information about the covid-19 cases all over the canada and can also be used to check the total cases on the world.
+Covid19 Tracker is an APP everyone can download on their phones and use to check the detailed information about the covid-19 cases all over Canada and can also be used to check the total cases on the world.
 
 ![Cover Page](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/flash_page.png)
 
 ## Install
+This Project is not published to any app store yet. So the only way to got it installed is to download entire file and use the andoird to install it into your phone
 
+here is the detailed step to use the andoird studio to install 
+
+1.downlaod entire code file
+![Step1](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step1.png)
+2.after unzip the file, import the android project into your android studio   
+![Step2](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.png)
+3.plug your USB and select the right device and click the run button 
+![Step3](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step3.jpg)
 
 
 ## Usage
