@@ -15,7 +15,7 @@ In this README file the usage and the implementation will be explained in detail
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [API](#API)
+- [Data source](#Data source)
 - [Features](#Features)
 - [Showcases](#Showcases)
 - [FixedBugList](#FixedBugList)
@@ -54,7 +54,7 @@ This app is used for real-time tracking COVID-19 information over the Canada.
 
 <img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png" width="300" height="450" />
 
-## API
+## Data source
 Three Covid-19 data API I used in this APP as my data source
 
 
@@ -102,10 +102,10 @@ Here is the list of features
 
 
 ## WireFrame
-https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/ModelView.png
 <img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/ModelView.png" width="550" height="550" />
-### Contributors
 
+### Contributors
+Xiaowei Liang
 
 
 
