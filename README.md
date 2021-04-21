@@ -52,13 +52,16 @@ This app is used for real-time tracking COVID-19 information over the Canada.
 ## API
 Three Covid-19 date api I used in this APP as my data source
 
-The first one I used to get the detailed data of all province in canda
-1.[@API1](https://opencovid.ca/api/).
-The second API I used to fetch the covid-19 overall cases summary
-3. [@API2](https://documenter.getpostman.com/view/11073859/Szt5fAr3?version=latest).
-The third one here I used to fetch the COVID-19 cases of the world
-5. [@API3](https://opencovid.ca/api/).
 
+1.[API1](https://opencovid.ca/api/).
+-The first one I used to get the detailed data of all province in canda
+
+
+2. [API2](https://documenter.getpostman.com/view/11073859/Szt5fAr3?version=latest).
+-The second API I used to fetch the covid-19 overall cases summary
+
+3. [API3](https://opencovid.ca/api/).
+-The third one here I used to fetch the COVID-19 cases of the world
 
 ## Features
 
