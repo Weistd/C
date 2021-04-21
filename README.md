@@ -29,19 +29,22 @@ COVID19 TRACKER is my solution for people who want to have more convenient and t
 
 Covid19 Tracker is an APP everyone can download on their phones and use to check the detailed information about the covid-19 cases all over Canada and can also be used to check the total cases on the world.
 
-![Cover Page](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/flash_page.png)
 
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/flash_page.png)" width="300" height="450" />
 ## Install
 This Project is not published to any app store yet. So the only way to got it installed is to download entire file and use the andoird to install it into your phone
 
 here is the detailed step to use the andoird studio to install 
 
 1.downlaod entire code file
-<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step1.png" width="250" height="250" />
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step1.png" width="450" height="450" />
+
 2.after unzip the file, import the android project into your android studio   
-![Step2](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.jpg)
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.jpg" width="450" height="450" />
+
 3.plug your USB and select the right device and click the run button 
-![Step3](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step3.jpg)
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step3.jpg" width="450" height="450" />
+
 
 
 ## Usage
