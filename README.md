@@ -35,7 +35,8 @@ Covid19 Tracker is an APP everyone can download on their phones and use to check
 This Project is not published to any app store yet. So the only way to got it installed is to download entire file and use the andoird to install it into your phone
 
 here is the detailed step to use the andoird studio to install 
-1.downlaod entire code file
+
+**1.downlaod entire code file
 ![Step1](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step1.png)
 2.after unzip the file, import the android project into your android studio   
 ![Step2](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.png)
