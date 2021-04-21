@@ -90,7 +90,7 @@ Here is the list of features
 
 
 ## Showcases
-<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/show.gif" width="40" height="40" />
+<img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/show.gif" width="300" height="450" />
 
 ## FixedBugList
 
