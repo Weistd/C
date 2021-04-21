@@ -36,13 +36,13 @@ This Project is not published to any app store yet. So the only way to got it in
 
 here is the detailed step to use the andoird studio to install 
 
-**1.downlaod entire code file
+1.downlaod entire code file
 ![Step1](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step1.png)
 2.after unzip the file, import the android project into your android studio   
 ![Step2](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.png)
 3.plug your USB and select the right device and click the run button 
 ![Step3](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step3.jpg)
-**
+
 
 ## Usage
 
