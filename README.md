@@ -94,13 +94,13 @@ Here is the list of features
 
 ## FixedBugList
 
-[@RichardLitt](https://github.com/RichardLitt).
+-In MainActivity, The fetch data in the not working  *fixed*
+-In MainActivity, wrong order to store the fetched data   *fixed*
+-In the StyateWiseDataActivity, the search editbox not working  *fixed*
+
 
 ## WireFrame
 
-Feel free to dive in! [Open an issue](https://github.com/RichardLitt/standard-readme/issues/new) or submit PRs.
-
-Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
 ### Contributors
 
