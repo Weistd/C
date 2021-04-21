@@ -46,13 +46,8 @@ here is the detailed step to use the andoird studio to install
 
 ## Usage
 
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
-
-```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
-```
-
+This app is used for tracking COVID-19 information over the Canada.
+![Usage](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/showcase1.png)
 
 ## API
 
