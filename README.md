@@ -85,7 +85,7 @@ Here is the list of features
 
 
 ## Showcases
-![Show case GIF](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/show.gif width="40" height="40")
+![Show case GIF](img src="https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/show.gif" width="40" height="40")
 
 
 ## FixedBugList
