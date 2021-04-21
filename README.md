@@ -39,7 +39,7 @@ here is the detailed step to use the andoird studio to install
 1.downlaod entire code file
 ![Step1](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step1.png)
 2.after unzip the file, import the android project into your android studio   
-![Step2](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.png)
+![Step2](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step2.jpg)
 3.plug your USB and select the right device and click the run button 
 ![Step3](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/install_step3.jpg)
 
@@ -85,7 +85,7 @@ Here is the list of features
 
 
 ## Showcases
-
+![Show case GIF](https://github.com/Weistd/CS455FinalProject/blob/main/ShowCaseImage/show.gif)
 
 
 ## FixedBugList
