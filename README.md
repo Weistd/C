@@ -24,6 +24,7 @@ In this README file the usage and the implementation will be explained in detail
 
 ## Background
 Covid-19 pandamic started 2020 and many peoples life got changed by this pandamic. Since the COVID-19 is still a big theater to our faily life, I decided to design and implement a APP that can do a real time track to the COVID-19 cases all over Canada. SO, that people who lives in Canada can get the information about COVID-19 in a more convenient and timely way.
+
 Covid19 Tracker is a APP everyone can downloaded into their phones and use it to check the detailed information about the covid-19 cases all over the canada and can also be used to check the total cases on the world.
 
 
