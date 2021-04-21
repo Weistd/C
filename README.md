@@ -77,11 +77,16 @@ Here is the list of features
 
 5.using by using pie chart to give a more direct view of the data
 
+6.provide the search function to help user easily find the province they want to check
+
+7.search function will search anything related to the letter on the search box, provide more related information in the result list
+
+8.search page will show all basic information such as total cases for all province in the list
+
 
 ## Showcases
 
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
-- [open-source-template](https://github.com/davidbgk/open-source-template/) - A README template to encourage open-source contributions.
+
 
 ## FixedBugList
 
